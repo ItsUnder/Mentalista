@@ -6,6 +6,7 @@ body {
   min-height: 600px;
   margin: 0;
   padding: 0;
+  height: 
   z-index: 1;
   overflow: hidden;
 }
@@ -109,6 +110,7 @@ body {
   right: 0;
   margin-left: auto;
   margin-right: auto;
+  top: 80px;
 }
 
 .page-title {
@@ -203,7 +205,7 @@ input {
   margin-right: auto;
   left: 0;
   right: 0;
-  top: 10px;
+  top: 90px;
   z-index: 8;
 } .button-58 {
   position: relative;
@@ -318,7 +320,7 @@ input {
   margin-right: auto;
   left: 0;
   right: 0;
-  bottom: 90px;
+  bottom: 20px;
 }
 .creditos span {
   margin-right: none;
